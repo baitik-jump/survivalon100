@@ -1,0 +1,84 @@
+.logophoto{
+	width: 100%;
+	height: 100%;
+		}
+
+.main {
+	width: 100%;
+	height: 800px;
+	background-color: none;
+	margin: 0;
+	background-image: url(фон.jpg);
+
+}
+body {
+	
+	margin: 0;
+}
+.head {
+width: 100%;
+height: 40px;
+background-color: none;	
+}
+.logo {
+	width: 20%;
+	height: 40px;
+	background-color: none;
+	margin-left: 80px;
+}
+.n {
+	width: 100%;
+	height: 120px;
+    background-color: black;
+    margin-top: 0px;
+}
+.kontakt{
+	color: white;
+	font-size: 32px;
+	text-align: center;
+	
+	padding-top: 20px; 
+}
+.otstup {
+	margin-right: 60px;
+}
+.silka {
+	float: right;
+	margin-top: 10px;
+	text-decoration: none;
+	color: white;
+	margin-left: 80px;
+	font-family: Ruslan Display;
+	display: inline-block;
+	text-shadow: 2px 2px 1px rgba(50,50,50, 1);
+    font-size: 25px;
+}
+.zagolovok1 {
+	text-align: center;
+	color: black;
+}
+.bigblock {
+	width: 100%;
+	height: 900px;
+	background-color: #D3D3D3;
+	margin-top: 85px;
+}
+
+.block112 {
+	width: 20%;
+	height: 350px;
+	background-color: none;
+	float:left;
+	margin: 33px;
+
+}
+
+.akciie22 {
+	width: 100%;
+	height: 75%;
+	background-color: yellow;
+}
+.eat {
+	width: 100%;
+	height: 100%;
+}
